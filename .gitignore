@@ -17,3 +17,4 @@ env_scoring/
 venv/
 *.pyc
 __pycache__/
+*.pyc
