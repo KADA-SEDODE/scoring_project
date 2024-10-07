@@ -1,1 +1,19 @@
 .venv/
+# Ignorer les répertoires système
+*.DS_Store
+*.log
+node_modules/
+.env/
+__pycache__/
+*.ipynb_checkpoints/
+env_scoring/
+
+# Ignorer les fichiers de configuration utilisateur
+*.ini
+*.log
+*.bak
+
+env_scoring/
+venv/
+*.pyc
+__pycache__/

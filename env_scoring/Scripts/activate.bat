@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\kadas\Desktop\Mes_cours\SCORING\env_scoring
+set VIRTUAL_ENV=C:\Users\kadas\Documents\GitHub\scoring_project\env_scoring
 
 if not defined PROMPT set PROMPT=$P$G
 
